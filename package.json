@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mz": "^2.7.0",
+    "node-schedule": "^2.0.0",
+    "prettier": "^2.2.1",
+    "puppeteer": "^8.0.0",
+    "resemblejs": "^3.2.5"
+  }
+}
